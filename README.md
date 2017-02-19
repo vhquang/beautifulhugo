@@ -1,6 +1,5 @@
 ## todo
 * increase width, at least for `code`
-* decrease the white space on single post header
 * add site logo
 * add twitter, git info
 
