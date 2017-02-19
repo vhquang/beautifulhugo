@@ -1,3 +1,9 @@
+## todo
+* increase width, at least for `code`
+* decrease the white space on single post header
+* add site logo
+* add twitter, git info
+
 # Beautiful Hugo - A port of Beautiful Jekyll Theme
 
 ![Beautiful Hugo Theme Screenshot](https://github.com/halogenica/Hugo-BeautifulHugo/blob/master/images/screenshot.png)
