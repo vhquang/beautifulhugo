@@ -1,5 +1,4 @@
 ## todo
-* increase width, at least for `code`
 * add site logo
 * add twitter, git info
 
