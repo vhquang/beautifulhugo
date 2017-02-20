@@ -329,6 +329,14 @@ footer .theme-by {
   }
 }
 
+.posts-list p {
+  margin: 0 0 0.2em;
+}
+.posts-list blockquote {
+  padding: 0 20px;
+  margin-bottom: 0.5em;
+}
+
 /* --- Post and page headers --- */
 
 .intro-header {
