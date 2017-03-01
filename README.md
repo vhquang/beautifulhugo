@@ -1,6 +1,7 @@
 ## todo
 * add site logo
 * add twitter, git info
+* table of content for col-lg
 
 # Beautiful Hugo - A port of Beautiful Jekyll Theme
 
