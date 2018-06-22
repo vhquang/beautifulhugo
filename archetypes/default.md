@@ -1,6 +1,13 @@
 ---
-subtitle: ""
-comments:
+title: ""
+date: {{ .Date }}
+draft: true
+keywords: []
+description: ""
 tags: []
-bigimg: [{}]
+toc: false
+mathjax: false
 ---
+
+
+<!--more-->
