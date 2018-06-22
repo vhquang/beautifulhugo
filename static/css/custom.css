@@ -1,0 +1,42 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 1.8rem;
+  /* color: #404040;
+  position: relative;
+  background: #FFF;
+  display: flex;
+  flex-flow: column;
+  height: 100vh; */
+}
+b, strong {
+  font-weight: 600;
+}
+
+h1 {
+  font-family: Oswald, "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-weight: 800;
+}
+
+h2,h3,h4,h5,h6 {
+  font-family: Oswald, "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  /* font-weight: 700; */
+}
+
+.post-preview .post-read-more {
+  font-weight: 700;
+}
+
+.pager li a {
+  font-weight: normal;
+}
+
+.pager.blog-pager {
+  margin-top: 4rem;
+}
+
+footer {
+  padding: 3rem 0rem;
+}
+footer p {
+  margin-top: 0rem;
+}
